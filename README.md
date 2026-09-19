@@ -4,13 +4,13 @@
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 Este software desktop foi idealizado para atender microempreendedores individuais e pequenas empresas locais (com foco no contexto de Florianópolis/SC).
 O sistema oferece uma interface simples, intuitiva e funcional para organizar o controle de estoque de matérias-primas e produtos prontos, automatizando avisos e prevenindo perdas na linha de produção.
 
 ---
 
-## 🎯 Objetivos de Desenvolvimento Sustentável (ODS) da ONU
+## Objetivos de Desenvolvimento Sustentável (ODS) da ONU
 O projeto está alinhado diretamente aos seguintes ODS:
 * ODS 8: Trabalho decente e crescimento econômico.
 * ODS 9: Indústria, inovação e infraestrutura.
@@ -18,7 +18,7 @@ O projeto está alinhado diretamente aos seguintes ODS:
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 * Linguagem de Programação: Python 3.13
 * Interface Gráfica (GUI): Tkinter (Biblioteca nativa)
 * Garantia de Executável (.exe): PyInstaller
@@ -27,7 +27,7 @@ O projeto está alinhado diretamente aos seguintes ODS:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Opção 1: Utilizando o Executável Pronto (.exe)
 1. Acesse os arquivos do repositório.
@@ -42,7 +42,7 @@ O projeto está alinhado diretamente aos seguintes ODS:
 
 ---
 
-## 📌 Funcionalidades do Sistema
+## Funcionalidades do Sistema
 * **Cadastro Integrado:** Inserção de novos itens especificando se são Matéria-Prima ou Produto Pronto.
 * **Monitoramento de Quantidades:** Registro de quantidade atual e estoque mínimo desejado.
 * **Alertas Automáticos:** Identificação visual em tempo real de itens que atingiram níveis críticos de estoque (⚠️ ESTOQUE BAIXO!).
@@ -50,7 +50,7 @@ O projeto está alinhado diretamente aos seguintes ODS:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 * **Luan Allan de Farias**
 * **RU:** 5087452
 * **Curso:** CST em Análise e Desenvolvimento de Sistemas — UNINTER (Polo Florianópolis/SC)
