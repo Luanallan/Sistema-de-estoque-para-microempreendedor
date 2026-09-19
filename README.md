@@ -45,7 +45,7 @@ O projeto está alinhado diretamente aos seguintes ODS:
 ## Funcionalidades do Sistema
 * **Cadastro Integrado:** Inserção de novos itens especificando se são Matéria-Prima ou Produto Pronto.
 * **Monitoramento de Quantidades:** Registro de quantidade atual e estoque mínimo desejado.
-* **Alertas Automáticos:** Identificação visual em tempo real de itens que atingiram níveis críticos de estoque (⚠️ ESTOQUE BAIXO!).
+* **Alertas Automáticos:** Identificação visual em tempo real de itens que atingiram níveis críticos de estoque.
 * **Exclusão e Atualização:** Gestão dinâmica da lista de itens cadastrados.
 
 ---
